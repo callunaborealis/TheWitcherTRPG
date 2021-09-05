@@ -1698,7 +1698,7 @@ export default class WitcherActorSheet extends ActorSheet {
         }
       }).render(true)  
     
-    }
+    } 
 
     _onSpellDisplay(event) {
       event.preventDefault(); 

@@ -163,3 +163,12 @@ witcher.CritDeadly = {
     DeadlyDismemberedArm: "WITCHER.CritWound.Name.DeadlyDismemberedArm",
     DeadlyDismemberedLeg: "WITCHER.CritWound.Name.DeadlyDismemberedLeg",
 };
+
+witcher.languages = {
+    commonSpeechBase10: "WITCHER.language.commonSpeech.base10",
+    commonSpeechBase13: "WITCHER.language.commonSpeech.base13",
+    dwarvenBase10: "WITCHER.language.dwarven.base10",
+    dwarvenBase13: "WITCHER.language.dwarven.base13",
+    elderSpeechBase10: "WITCHER.language.elderSpeech.base10",
+    elderSpeechBase13: "WITCHER.language.elderSpeech.base13"
+}
